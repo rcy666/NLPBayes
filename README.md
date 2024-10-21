@@ -1,1 +1,1 @@
-# NLPBayes
+这是我们小组的NLP项目上传处，旨在学习如何将代码上传到github处，此次上传使用了git blash建立仓库接口上传，内容为我们项目的文件夹# NLPBayes
